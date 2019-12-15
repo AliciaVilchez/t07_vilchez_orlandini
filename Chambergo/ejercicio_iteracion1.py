@@ -1,6 +1,5 @@
 # Programa 01
 
-#Ejercicio_01
 import os
 deportes= os.sys.argv [1]
 

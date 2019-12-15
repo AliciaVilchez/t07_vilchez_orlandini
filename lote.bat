@@ -22,3 +22,10 @@ python Vilchez/ejercicio.iteracion05.py "D"
 python Vilchez/ejercicio.iteracion05.py "$"
 python Vilchez/ejercicio.iteracion05.py "#"
 python Vilchez/ejercicio.iteracion05.py "J"
+
+python Chambergo/ejercicio_iteracion1.py "A"
+python Chambergo/ejercicio_iteracion1.py "B"
+python Chambergo/ejercicio_iteracion1.py "C"
+python Chambergo/ejercicio_iteracion1.py "D"
+
+
