@@ -39,5 +39,11 @@ python Chambergo/ejercicio_iteracion3.py "B2"
 python Chambergo/ejercicio_iteracion3.py "C3"
 python Chambergo/ejercicio_iteracion3.py "D4"
 
+python Chambergo/ejercicio_iteracion4.py "A"
+python Chambergo/ejercicio_iteracion4.py "D"
+python Chambergo/ejercicio_iteracion4.py "F"
+python Chambergo/ejercicio_iteracion4.py "M"
+
+
 
 
