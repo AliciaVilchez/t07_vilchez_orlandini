@@ -17,3 +17,8 @@ python Vilchez/ejercicio.iteracion04.py "UCI"
 python Vilchez/ejercicio.iteracion04.py "UVI"
 python Vilchez/ejercicio.iteracion04.py "UTI"
 python Vilchez/ejercicio.iteracion04.py "UCC"
+
+python Vilchez/ejercicio.iteracion05.py "D"
+python Vilchez/ejercicio.iteracion05.py "$"
+python Vilchez/ejercicio.iteracion05.py "#"
+python Vilchez/ejercicio.iteracion05.py "J"
