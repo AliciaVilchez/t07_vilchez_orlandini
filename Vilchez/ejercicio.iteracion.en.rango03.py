@@ -1,4 +1,4 @@
-# Programa 04
+# Programa 03
 
 a_curso=int(input("Ingresa el año en curso:"))
 for i in range(3):

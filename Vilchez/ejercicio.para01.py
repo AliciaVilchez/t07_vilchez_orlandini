@@ -7,3 +7,5 @@ while(i <= max):
     i+=1
 #fin_while
 print("programa culminado")
+
+
