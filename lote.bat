@@ -44,6 +44,13 @@ python Chambergo/ejercicio_iteracion4.py "D"
 python Chambergo/ejercicio_iteracion4.py "F"
 python Chambergo/ejercicio_iteracion4.py "M"
 
+python Chambergo/ejercicio_iteracion5.py "W"
+python Chambergo/ejercicio_iteracion5.py "X"
+python Chambergo/ejercicio_iteracion5.py "Y"
+python Chambergo/ejercicio_iteracion5.py "Z"
+
+
+
 
 
 
