@@ -5,11 +5,11 @@ tipos_clientes=os.sys.argv[1]
 
 for letra in tipos_clientes:
     if(letra=="A1"):
-        print("Paga a tiempo")
+        print("paga a tiempo")
     if(letra=="B2"):
-        print("Demora en pagar dos dias")
+        print("demora en pagar dos dias")
     if(letra=="C3"):
-        print("Demora en pagar un mes")
+        print("demora en pagar un mes")
     if(letra=="D4"):
-        print("No paga hasta que lo notifiquen")
+        print("no paga hasta que lo notifiquen")
 #fin_for
