@@ -12,3 +12,8 @@ python Vilchez/ejercicio.iteracion03.py "D"
 python Vilchez/ejercicio.iteracion03.py "A"
 python Vilchez/ejercicio.iteracion03.py "I"
 python Vilchez/ejercicio.iteracion03.py "E"
+
+python Vilchez/ejercicio.iteracion04.py "UCI"
+python Vilchez/ejercicio.iteracion04.py "UVI"
+python Vilchez/ejercicio.iteracion04.py "UTI"
+python Vilchez/ejercicio.iteracion04.py "UCC"
