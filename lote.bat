@@ -34,3 +34,10 @@ python Chambergo/ejercicio_iteracion2.py "B2"
 python Chambergo/ejercicio_iteracion2.py "C3"
 python Chambergo/ejercicio_iteracion2.py "D4"
 
+python Chambergo/ejercicio_iteracion3.py "A1"
+python Chambergo/ejercicio_iteracion3.py "B2"
+python Chambergo/ejercicio_iteracion3.py "C3"
+python Chambergo/ejercicio_iteracion3.py "D4"
+
+
+
